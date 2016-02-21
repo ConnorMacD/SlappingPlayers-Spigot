@@ -1,0 +1,9 @@
+name: SlappingPlayers
+main: net.klzed.slappingplayers.Main
+version: 1.0
+author: Klz
+description: A plugin to slap players.
+commands:
+  slap:
+    description: Slap a player for some or no damage.
+    usage: /slap <player> [damage]
