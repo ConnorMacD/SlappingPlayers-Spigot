@@ -5,7 +5,7 @@ SlappingPlayers-Spigot is a silly/fun plugin. It gives a player with proper perm
 ## Commands
 
 - /slap
-    - <player> [damage]
+    - [player] [damage]
 
 ## How To Use
 
