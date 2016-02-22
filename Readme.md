@@ -17,7 +17,7 @@ To slap a player for damage, ensure that you have the "slappingplayers.slap.dama
 
 SlappingPlayers-Spigot was built with SpigotAPI 1.8.8 R0.1. Newer versions of the SpigotAPI could possibly cause compilation to fail.
 
-To get the SpigotAPI, you have to use Spigot's BuildTools, which can be found [here] [SpigBT]
+To get SpigotAPI, you have to use Spigot's BuildTools, which can be found [here] [SpigBT]
 
 ## Building
 
